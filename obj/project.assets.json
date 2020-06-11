@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj",
+      "projectUniqueName": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj",
       "projectName": "CSharpHolaMundoVSC",
-      "projectPath": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj",
+      "projectPath": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj",
       "packagesPath": "/home/alexeiiw/.nuget/packages/",
-      "outputPath": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/obj/",
+      "outputPath": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alexeiiw/.nuget/NuGet/NuGet.Config"

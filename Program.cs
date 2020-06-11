@@ -7,7 +7,7 @@ namespace CSharpHolaMundoVSC
         static void Main(string[] args)
         {
             var name = System.Environment.MachineName;
-            Console.WriteLine("Hello World! " + name);
+            Console.WriteLine("Hello World! Alex y " + name);
         }
     }
 }
