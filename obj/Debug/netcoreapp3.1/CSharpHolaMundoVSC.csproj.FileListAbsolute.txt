@@ -1,0 +1,13 @@
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/bin/Debug/netcoreapp3.1/CSharpHolaMundoVSC
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/bin/Debug/netcoreapp3.1/CSharpHolaMundoVSC.deps.json
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/bin/Debug/netcoreapp3.1/CSharpHolaMundoVSC.runtimeconfig.json
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/bin/Debug/netcoreapp3.1/CSharpHolaMundoVSC.runtimeconfig.dev.json
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/bin/Debug/netcoreapp3.1/CSharpHolaMundoVSC.dll
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/bin/Debug/netcoreapp3.1/CSharpHolaMundoVSC.pdb
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/obj/Debug/netcoreapp3.1/CSharpHolaMundoVSC.csprojAssemblyReference.cache
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/obj/Debug/netcoreapp3.1/CSharpHolaMundoVSC.AssemblyInfoInputs.cache
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/obj/Debug/netcoreapp3.1/CSharpHolaMundoVSC.AssemblyInfo.cs
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/obj/Debug/netcoreapp3.1/CSharpHolaMundoVSC.csproj.CoreCompileInputs.cache
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/obj/Debug/netcoreapp3.1/CSharpHolaMundoVSC.dll
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/obj/Debug/netcoreapp3.1/CSharpHolaMundoVSC.pdb
+/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC/obj/Debug/netcoreapp3.1/CSharpHolaMundoVSC.genruntimeconfig.cache
