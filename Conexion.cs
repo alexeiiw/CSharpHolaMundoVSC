@@ -26,6 +26,7 @@ namespace Logica
                 SqlCommand cmd = new SqlCommand(sql, con);
                 cmd.ExecuteNonQuery();
                 return "Datos eliminados exitosamente";
+                //con.Close();
             }
             catch (Exception)
             {
@@ -33,7 +34,7 @@ namespace Logica
             }
 
             // Cierro la conexion
-            con.Close();
+            //con.Close();
         }
 
         public String InsertarDatos(String strTabla, String strCampos, String strValores)
@@ -54,7 +55,7 @@ namespace Logica
             }
 
             // Cierro la conexion
-            con.Close();
+            //con.Close();
          }
 
         public String ModificarDatos(String strTabla, String strValores, String strCondicion)
@@ -74,7 +75,7 @@ namespace Logica
             }
 
             // Cierro la conexion
-            con.Close();
+            //con.Close();
         }
 
         public DataTable LlenarTabla(String strTabla, String strCondicion = "")

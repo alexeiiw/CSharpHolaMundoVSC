@@ -1,0 +1,5 @@
+/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/obj/Debug/netcoreapp5/CSharpHolaMundoVSC.csproj.AssemblyReference.cache
+/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/obj/Debug/netcoreapp5/CSharpHolaMundoVSC.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/obj/Debug/netcoreapp5/CSharpHolaMundoVSC.AssemblyInfoInputs.cache
+/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/obj/Debug/netcoreapp5/CSharpHolaMundoVSC.AssemblyInfo.cs
+/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/obj/Debug/netcoreapp5/CSharpHolaMundoVSC.csproj.CoreCompileInputs.cache

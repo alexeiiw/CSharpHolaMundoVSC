@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj": {}
+    "/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj": {}
   },
   "projects": {
-    "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj": {
+    "/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj",
+        "projectUniqueName": "/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj",
         "projectName": "CSharpHolaMundoVSC",
-        "projectPath": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj",
+        "projectPath": "/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/CSharpHolaMundoVSC.csproj",
         "packagesPath": "/home/alexeiiw/.nuget/packages/",
-        "outputPath": "/home/alexeiiw/Desarrollo/CSharpHolaMundoVSC/obj/",
+        "outputPath": "/home/alexeiiw/Proyectos/CSharpHolaMundoVSC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alexeiiw/.nuget/NuGet/NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.410/RuntimeIdentifierGraph.json"
         }
       }
     }
